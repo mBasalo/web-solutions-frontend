@@ -1,8 +1,3 @@
-# web-solutions-frontend
-Frontend repository for Web Solutions Uruguay, built with React.js. This project showcases services and a portfolio of projects, designed to provide a clean and engaging user experience.    
-
-
-
 # Web Solutions Uruguay - Frontend
 
 This repository contains the React.js codebase for the Web Solutions Uruguay landing page. The website showcases our services and portfolio, designed to provide a clean and engaging user experience.
